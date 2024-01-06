@@ -8,13 +8,13 @@ language: 'en-uk'
 
 # Website info
 name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+description: "The story begins here."
 
-short_url: 'jekyllt.github.io/jasper/'
+short_url: 'samuelnguyen1998.github.io'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -45,13 +45,13 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyllt
-repo: jasper
+username: samuelnguyen1998
+repo: samuelnguyen1998.github.io
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://jekyllt.github.io/jasper/
-source_url:  https://github.com/jekyllt/jasper/
+production_url:  https://samuelnguyen1998.github.io
+source_url:  https://github.com/SamuelNguyen1998/SamuelNguyen1998.github.io/
 
 exclude:
   - README.md
