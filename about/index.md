@@ -3,6 +3,7 @@ layout: page
 title: About
 navigation: true
 logo: '/assets/images/ghost.png'
+cover: '/assets/images/cover1.jpg'
 current: about
 ---
 
